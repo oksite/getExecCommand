@@ -1,0 +1,19 @@
+{
+  "name": "getexeccommand",
+  "version": "1.0.0",
+  "description": "getExecCommand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksite/getExecCommand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksite/getExecCommand/issues"
+  },
+  "homepage": "https://github.com/oksite/getExecCommand#readme"
+}
